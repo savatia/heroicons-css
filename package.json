@@ -1,0 +1,26 @@
+{
+  "name": "heroicons-css",
+  "version": "0.0.1",
+  "description": "Webfonts and css styles for Steve Schogers Heroicons UI",
+  "main": "null",
+  "scripts": {
+    "test": "null"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savatia/heroicons-css.git"
+  },
+  "keywords": [
+    "heroicon",
+    "heroicons",
+    "icons",
+    "webfont",
+    "heroicons-ui"
+  ],
+  "author": "savatia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/savatia/heroicons-css/issues"
+  },
+  "homepage": "https://github.com/savatia/heroicons-css#readme"
+}
